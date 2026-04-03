@@ -1,3 +1,6 @@
+
+
+
 # App Store Release Notes Guidelines
 
 ## Goals

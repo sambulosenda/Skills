@@ -18,3 +18,4 @@ ln -s ~/Skills/app-store-changelog ~/.claude/skills/app-store-changelog
 | Skill | Description |
 |---|---|
 | [app-store-changelog](./app-store-changelog) | Generate App Store / Play Store release notes from git history |
+| [eas-build-doctor](./eas-build-doctor) | Diagnose failed EAS builds — parse logs, identify root causes, suggest fixes |
